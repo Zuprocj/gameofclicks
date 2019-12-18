@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gameofclicks/static/css/main.0c9d63ce.chunk.css",
+    "main.js": "/gameofclicks/static/js/main.7e3c6283.chunk.js",
+    "main.js.map": "/gameofclicks/static/js/main.7e3c6283.chunk.js.map",
+    "runtime-main.js": "/gameofclicks/static/js/runtime-main.1fdfc55f.js",
+    "runtime-main.js.map": "/gameofclicks/static/js/runtime-main.1fdfc55f.js.map",
+    "static/js/2.e7f25eeb.chunk.js": "/gameofclicks/static/js/2.e7f25eeb.chunk.js",
+    "static/js/2.e7f25eeb.chunk.js.map": "/gameofclicks/static/js/2.e7f25eeb.chunk.js.map",
+    "index.html": "/gameofclicks/index.html",
+    "precache-manifest.d3a0f383704bf7efcef84b80e21ae701.js": "/gameofclicks/precache-manifest.d3a0f383704bf7efcef84b80e21ae701.js",
+    "service-worker.js": "/gameofclicks/service-worker.js",
+    "static/css/main.0c9d63ce.chunk.css.map": "/gameofclicks/static/css/main.0c9d63ce.chunk.css.map",
+    "static/js/2.e7f25eeb.chunk.js.LICENSE": "/gameofclicks/static/js/2.e7f25eeb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fdfc55f.js",
+    "static/js/2.e7f25eeb.chunk.js",
+    "static/css/main.0c9d63ce.chunk.css",
+    "static/js/main.7e3c6283.chunk.js"
+  ]
+}
